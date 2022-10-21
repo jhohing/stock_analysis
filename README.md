@@ -71,9 +71,11 @@ Refactoringis useful as it helps make our code look cleaner and more organized. 
 The most noticable take away from refactoring the Stock Analysis script is the decreased run time. The original script took nearly half a second to run, whereas the refactored script took a fifth of the time (0.10 seconds) to run. Another advantage is make this code ready to be run on a larger dataset in the future. Below are the screenshots of the run times for the original script and the refactored script.
 
 Original Script:
+
 ![](/Resources/VBA_Challenge_2018.png)
 
 
 Refactored Script:
+
 ![](/Resources/VBA_Challenge_2018_refactored.png)
 
